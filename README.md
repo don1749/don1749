@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @don1749
-- 👀 I’m interested in system engineering, web development and machine learning.
+- 👀 I’m interested in software engineering, web app development and machine learning.
 - 🌱 I’m currently learning Computer Science.
 - 📫 How to reach me
   - Facebook: https://www.facebook.com/dothaidon
